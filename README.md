@@ -32,14 +32,6 @@
 * Enter the repository, commit your changes, and press the publish button.
 
 ---
-## Upload Files to GitHub
-*Click the Upload Files files button and begin uploading files. You can drag one or more files from the desktop and then click Commit Changes to publish the files on the web. GitHub will accept any file as long as the size is within the 25 MB limit.*
-
----
-## Direct URLs for GitHub Files
-*After the file has been uploaded to Github, click the filename in the list and you’ll get the file’s URL in the browser’s address. Append ?raw=true to the URL and you get a downloadable / embeddable version.*
-
----
 ## Repository Settings
 **Step 1:**
 *Head over to ["GitHub"](https://github.com/) and create a new repository, or go to an existing one.
