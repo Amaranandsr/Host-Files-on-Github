@@ -27,20 +27,9 @@
 ![New Repository](Img/repo.JPG)
 
 
-
-
-
-**Step :**
-When the GitHub desktop app opens, save the project.
-
-
-
-*Your GitHub repository  will initially be empty and now ready.*
-
-
-
-
-
+**Step After GitHub Desktop Open:**
+* Grab your favorite text editor and add an index.html file to your project
+* Enter the repository, commit your changes, and press the publish button.
 
 ---
 ## Upload Files to GitHub
